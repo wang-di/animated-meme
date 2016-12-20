@@ -1,3 +1,4 @@
 # animated-meme
-Ｔｈｉｓ　ｉｓ　ａ　ｎｅｗ　　ｐｒｏｊｅｃｔ　ｆｒｏｍ　ａ　ｏｌｄ　ｄｒｉｖｅｒ．
-Ｔｏｄａｙ　ｉｓ　１２.２０　２０１６，　Ｉ　ｄｏｎ＇ｔ　ｈａｖｅ　ｔｉｍｅ　ｔｏｏ　ｍｕｃｈ．
+This is a new project from a old driver. 
+Today is 12.20 2016, I don't have too much time.
+Maybe i really...
